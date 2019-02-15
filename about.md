@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-### Position
+<h3>Positions </h3>
 <font size='3'>
 
 <ul>
@@ -32,7 +32,7 @@ author_profile: true
 </ul>
 </font>
 
-### Referee experience
+<h3>Referee experience</h3>
 <font size='3'>
 
 <ul>
@@ -52,7 +52,7 @@ author_profile: true
 </font>
 
 
-### Education
+<h3>Education</h3>
 <font size='3'>
 <ul>
 <li> <p>PhD in Applied Physics<br/> 
