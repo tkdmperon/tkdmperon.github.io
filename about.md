@@ -1,5 +1,5 @@
 ---
-permalink: ../about/
+permalink: about/
 layout: archive
 author_profile: true
 ---
