@@ -24,7 +24,7 @@ author_profile: true
 </li>
 
 <li> <p>Visiting PhD Student<br/> 
-		Postsdam Institute for Climate Impact Research, Potsdam, Germany<br/>
+		Potsdam Institute for Climate Impact Research, Potsdam, Germany<br/>
 		Supervisor: <a href="https://www.pik-potsdam.de/members/kurths" target="_blank">Jürgen Kurths</a><br/>
 		April 2015 - January 2016
 	</p>
