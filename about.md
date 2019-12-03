@@ -10,9 +10,15 @@ author_profile: true
 
 <ul>
 <li> <p>Post-doc researcher (FAPESP grant) <br/> 
+		Institute of Mathematics and Computer Science, University of São Paulo<br/>
+		Supervisor: <a href="http://conteudo.icmc.usp.br/pessoas/francisco/" target="_blank">Francisco Aparecido Rodrigues</a><br/>
+		Nov 2019 - Now
+	</p>
+</li>
+<li> <p>Visiting post-doc researcher (FAPESP grant) <br/> 
 		Institute for Biocomputation and Physics of Complex Systems (BIFI), University of Zaragoza<br/>
 		Supervisor: <a href="http://cosnet.bifi.es/people/yamir-moreno/" target="_blank">Yamir Moreno</a><br/>
-		Nov 2018 - Now
+		Nov 2018 - Nov 2019
 	</p>
 </li>
 
