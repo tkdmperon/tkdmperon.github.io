@@ -71,7 +71,7 @@ author_profile: true
 
 <li> <p>MS in Applied Physics<br/> 
 		São Carlos Institute of Physics, University of São Paulo<br/>
-		Dissertation: Explosive synchronization in comple networks<br/>
+		Dissertation: Explosive synchronization in complex networks<br/>
 		Supervisor: <a href="http://conteudo.icmc.usp.br/pessoas/francisco/" target="_blank">Francisco Aparecido Rodrigues</a><br/>
 		2011-2013
 	</p>
