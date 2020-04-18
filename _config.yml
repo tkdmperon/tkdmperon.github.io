@@ -101,8 +101,8 @@ analytics:
 author:
   name             : "Thomas Peron"
   avatar           : "/assets/images/photo_thomas.png" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Post-doc researcher at University of Zaragoza."
-  location         : "Zaragoza, Spain"
+  bio              : "Post-doc researcher at University of São Paulo."
+  location         : "São Carlos, Brazil"
   email            :
   links:
     - label: "Email"
