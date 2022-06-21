@@ -101,7 +101,7 @@ analytics:
 author:
   name             : "Thomas Peron"
   avatar           : "/assets/images/my_new_picture.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Post-doc researcher at University of São Paulo."
+  bio              : "Assistant Professor at University of São Paulo."
   location         : "São Carlos, Brazil"
   email            :
   links:
