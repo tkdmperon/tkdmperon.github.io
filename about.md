@@ -9,10 +9,15 @@ author_profile: true
 <font size='3'>
 
 <ul>
+<li> <p>Assistant Professor <br/> 
+		Institute of Mathematics and Computer Science, University of São Paulo<br/>
+		Jun 2022 - Now
+	</p>
+</li>	
 <li> <p>Post-doc researcher (FAPESP grant) <br/> 
 		Institute of Mathematics and Computer Science, University of São Paulo<br/>
 		Supervisor: <a href="http://conteudo.icmc.usp.br/pessoas/francisco/" target="_blank">Francisco Aparecido Rodrigues</a><br/>
-		Nov 2019 - Now
+		Nov 2019 - Jun 2022
 	</p>
 </li>
 <li> <p>Visiting post-doc researcher (FAPESP grant) <br/> 
